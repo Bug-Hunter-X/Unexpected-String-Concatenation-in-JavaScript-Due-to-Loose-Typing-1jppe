@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error caused by loose typing.  The function `foo` attempts to add two numbers, but due to the second argument being a string, JavaScript performs string concatenation instead of numerical addition. The solution showcases how to explicitly type check to prevent this error.
